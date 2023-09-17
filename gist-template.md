@@ -1,10 +1,15 @@
-# Title (replace with your title)
+# Regular Expression Tutorial: Matching a URL
 
-Introductory paragraph (replace this with your text)
+All high-level programming languages come with built-in methods that can check if a string contains a certain character or any combination of characters. For example, the following JavaScript statement will return true:
+    ![Alt text](image.png)
+These methods are great; however, you need to know the exact string you are searching for. Is there a way we can do this dynamically? For instance, we would like to search the word "fast" but not "fasting". Let's introduce **regular expression**.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A **regular expression** (shortened as **regex**) is a sequance of characters that specifies a match pattern in text. Take the following example of a regular expression, which we'll call "Matching a Url":
+    ![Alt text](image-1.png)
+
+
 
 ## Table of Contents
 
